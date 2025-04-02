@@ -29,7 +29,7 @@
 </p>
 
 <div align="center">
-VideoScene is a one-step video diffusion model that bridges the gap from video to 3D with strong structural consistency.
+VideoScene is a one-step video diffusion model that bridges the gap from video to 3D.
 </div>
 </br>
 
