@@ -78,7 +78,7 @@ Our VideoScene uses the same training datasets as pixelSplat. Below we quote pix
 
 ## Downloading checkpoints
 
-* download our [pretrained weights](https://drive.google.com/file/d/1Qwl6oS8_GCXraw5Ohwri3QNAwQmc7kxV/view?usp=sharing), and save them to `checkpoints`.
+* download our [pretrained weights](https://drive.google.com/drive/folders/1FB5Rpr4uEVo9U2BBXai1Fc57kHDpp5yj), and save them to `checkpoints`.
 
 * for customized image inputs, get the NoPoSplat [pretrained models](https://huggingface.co/botaoye/NoPoSplat/resolve/main/mixRe10kDl3dv_512x512.ckpt), and save them to `checkpoints/noposplat`.
 
