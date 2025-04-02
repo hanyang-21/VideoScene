@@ -34,7 +34,7 @@ VideoScene is a one-step video diffusion for 3D reconstruction with strong struc
 </br>
 
 
-https://github.com/user-attachments/assets/6fce2b44-7d39-4db5-99be-b0a1cb6be46c
+https://github.com/user-attachments/assets/dca733b1-b78f-49ac-ae47-5d1b1e8a689b
 
 Building on [ReconX](https://github.com/liuff19/ReconX), VideoScene has achieved a turbo-version advancement.
 
