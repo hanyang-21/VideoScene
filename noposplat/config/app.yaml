@@ -1,0 +1,20 @@
+defaults:
+  - model/encoder: noposplat
+  - model/decoder: splatting_cuda
+
+seed: 111123
+
+resolution: 512
+
+checkpointing:
+  load: checkpoints/noposplat/mixRe10kDl3dv_512x512.ckpt
+
+test:
+  pretrain: feizhengcong/CogvideoX-Interpolation
+  video: checkpoints/model.safetensors
+
+hydra:
+  run:
+    dir: outputs/gradio/${now:%Y-%m-%d_%H-%M-%S}
+  
+output_dir: null
