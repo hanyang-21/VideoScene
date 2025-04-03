@@ -128,7 +128,15 @@ test.video=checkpoints/model.safetensors
 ## BibTeX
 
 ```bibtex
-
+@misc{wang2025videoscenedistillingvideodiffusion,
+      title={VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step}, 
+      author={Hanyang Wang and Fangfu Liu and Jiawei Chi and Yueqi Duan},
+      year={2025},
+      eprint={2504.01956},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.01956}, 
+}
 ```
 
 ## Acknowledgements
