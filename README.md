@@ -13,7 +13,7 @@
   <h3 align="center">CVPR 2025</h3>
   <h5 align="center">
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2403.20309-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2403.20309) 
+[![arXiv](https://img.shields.io/badge/Arxiv-2403.20309-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2504.01956) 
 [![Home Page](https://img.shields.io/badge/Project-Website-green.svg)](https://hanyang-21.github.io/VideoScene)
 </h5>
   <!-- <h3 align="center"><a href="https://arxiv.org/abs/">Paper</a> | <a href="">Project Page</a> | <a href="">Pretrained Models</a> </h3> -->
