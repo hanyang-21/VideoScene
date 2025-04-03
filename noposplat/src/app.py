@@ -65,7 +65,7 @@ class APP:
 <p></p>
 
 <div align="center">
-    <a style="display:inline-block" href="https://arxiv.org/abs/2403.20309"><img src="https://img.shields.io/badge/ArXiv-2403.20309-b31b1b?logo=arxiv" alt='arxiv'></a>
+    <a style="display:inline-block" href="https://arxiv.org/abs/2504.01956"><img src="https://img.shields.io/badge/ArXiv-2403.20309-b31b1b?logo=arxiv" alt='arxiv'></a>
     <a style="display:inline-block" href="https://hanyang-21.github.io/VideoScene/"><img src='https://img.shields.io/badge/Project-Website-green.svg'></a>&nbsp;
 </div>
 <p></p>
