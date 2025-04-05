@@ -10,7 +10,7 @@
     <br>
     Tsinghua University
   </p>
-  <h3 align="center">CVPR 2025</h3>
+  <h3 align="center">CVPR 2025 Hightlight 🔥</h3>
   <h5 align="center">
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2403.20309-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2504.01956) 
